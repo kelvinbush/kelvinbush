@@ -18,3 +18,5 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
+#### Wakatime
+[![wakatime](https://wakatime.com/badge/user/305c673f-09f4-4dff-833a-c7ff05240bf3.svg)](https://wakatime.com/@305c673f-09f4-4dff-833a-c7ff05240bf3)
