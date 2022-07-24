@@ -16,11 +16,11 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764abc)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=CC0000)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Travis-CI](https://img.shields.io/badge/-TravisCI-000?&logo=Travis-CI)
-![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins) -->
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
 
 
